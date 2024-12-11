@@ -100,7 +100,6 @@ The following items should be installed in your system:
   - [VS Code](https://code.visualstudio.com)
 
 ### Steps
-
 1. On the command line run:
 
     ```bash
